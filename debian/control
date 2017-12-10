@@ -1,0 +1,17 @@
+Source: nanopass-framework-scheme
+Section: lisp
+Priority: optional
+Maintainer: Göran Weinholt <goran@weinholt.se>
+Build-Depends: debhelper (>= 10),
+    chezscheme <!nocheck>
+Standards-Version: 4.1.2
+Homepage: https://github.com/nanopass/nanopass-framework-scheme
+
+Package: r6rs-nanopass-dev
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: chezscheme | ikarus
+Description: embedded DSL for writing compilers in Scheme
+ The nanopass framework is an embedded DSL for writing compilers in
+ Scheme as a series of small, single-purpose passes. It is used in the
+ Chez Scheme compiler.

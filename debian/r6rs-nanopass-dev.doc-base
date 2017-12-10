@@ -1,0 +1,10 @@
+Document: nanopass
+Title: Nanopass Framework Users Guide
+Author: Andrew W. Keep
+Abstract: This is the users guide for the nanopass framework, which is
+ an embedded DSL for writing compilers in Scheme as a series of small,
+ single-purpose passes.
+Section: Programming/Scheme
+
+Format: PDF
+Files: /usr/share/doc/r6rs-nanopass-dev/user-guide.pdf.gz

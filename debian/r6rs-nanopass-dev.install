@@ -1,0 +1,2 @@
+nanopass.ss     /usr/share/r6rs/
+nanopass/*.s*   /usr/share/r6rs/nanopass

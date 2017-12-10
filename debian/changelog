@@ -1,0 +1,5 @@
+nanopass-framework-scheme (1.9+git20160429.g1f7e80b-1) unstable; urgency=low
+
+  * Initial release (closes: #883429).
+
+ -- Göran Weinholt <goran@weinholt.se>  Sun, 10 Dec 2017 21:32:23 +0100
