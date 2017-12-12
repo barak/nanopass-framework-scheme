@@ -6,6 +6,8 @@ Build-Depends: debhelper (>= 10),
     chezscheme <!nocheck>
 Standards-Version: 4.1.2
 Homepage: https://github.com/nanopass/nanopass-framework-scheme
+Vcs-Git: https://anonscm.debian.org/git/collab-maint/nanopass-framework-scheme.git
+Vcs-Browser: https://anonscm.debian.org/gitweb/?p=collab-maint/nanopass-framework-scheme.git
 
 Package: r6rs-nanopass-dev
 Architecture: all
